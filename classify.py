@@ -11,6 +11,8 @@ class Classified:
 def distance (item1, item2):
  #distance1 = 0
  distance1 = pow(item1.temp-item2.temp,2) + pow(item1.bp-item2.bp,2)
+ if distance1 <= 1000:
+  distance1 = 0
  print ("Distance finction called")
  print (distance1)
  return distance1
