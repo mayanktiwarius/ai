@@ -13,6 +13,8 @@ def maxGoal(team,maxInt):
  goal = 0
  for player in team:
   goal += maxInt[player]
+ print ("Max Goal")
+ print (goal)
  return goal
 
 def minGoal(team,minInt):
@@ -21,6 +23,8 @@ def minGoal(team,minInt):
  #print(minInt)
  for player in team:
   goal += minInt[player]
+ print ("Min Goal")
+ print (goal)
  return goal
 
 def minGoalDifference(team1,team2,minInt,maxInt):
@@ -34,7 +38,7 @@ def minGoalDifference(team1,team2,minInt,maxInt):
  #print("possibleGoalDifference")
  print(possibleGoalDifference)
  #print(min(possibleGoalDifference))
- return min(possibleGoalDifference)
+ return max(possibleGoalDifference)
 
 def combinations(items,combo=[]):
  if combo == None:
@@ -60,10 +64,11 @@ def getAllCombinations(count):
 
 def getGoals(players,teams,minInt,maxInt):
  goals = []
+ print(teams)
  for team1 in teams:
-  teams.remove(team1)
+  #teams.remove(team1)
   team2 = list(set(players)-set(team1))
-  teams.remove(team2)
+  #teams.remove(team2)
   #print (team1)
   #print (team2)
   goals.append(minGoalDifference(team1,team2,minInt,maxInt))
@@ -72,7 +77,8 @@ def getGoals(players,teams,minInt,maxInt):
 
 if __name__ == "__main__":
  #input = "4#3,4,5,7#3,4,5,7"
- input = "4#1,3,4,5#2,5,8,6"
+ #input = "4#1,3,4,5#2,5,8,6"
+ input = "3#1,3,2#4,6,5"
  count,minInt,maxInt = parseinput(input)
  #print(min)
  #print(max)
