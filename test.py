@@ -18,4 +18,18 @@ if __name__ == "__main__":
  list = [0]
  print (list[:0])
  list = [-13,13]
- print min(list)
+ print (min(list))
+ list = [0,1,2,3,4,5]
+ print (list)
+ removeItems = [3,4]
+ finalList = [ list[index] for index in range(len(list)) if removeItems.count(index) == 0]
+ #finalList = [ list[index] for index in range(list) ]
+ #finalList = [ item for item in list]
+ #newItems = []
+ #for index in range(len(list)):
+ # if removeItems.count(index) == 0:
+ #  newItems.append(list[index])
+ #print(newItems)
+   
+   
+ print (finalList)
