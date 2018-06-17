@@ -1,0 +1,43 @@
+def removeItemsFromList(items,removeItems):
+ newItems = [ items[index] for index in range(len(items)) if removeItems.count(index) == 0 ]
+ return newItems
+
+def assort(items):
+ area = 0
+ while(len(items) != 0):
+  area += max(items)
+  lastMax = max(items)
+  startIndex = 0
+  endIndex = 0
+  sum = 0
+  removeItems = []
+  for index in range(len(items)):
+   if items[index] == lastMax:
+    sum = 0
+    for i in range(startIndex,endIndex):
+     removeItems.append(i)
+    removeItems.append(index)
+    startIndex = index + 1
+    endIndex = startIndex
+   else:
+    sum += items[index]
+    endIndex += 1
+    if sum == lastMax:
+     for i in range(startIndex,endIndex):
+      removeItems.append(index)
+    startIndex = index+1
+    endIndex = startIndex
+  items = removeItemsFromList(items,removeItems)
+ return area
+  
+
+if __name__ == "__main__":
+ input = "4 2 1 4"
+ #input = "4 4 4 4 8"
+ #input = "4 2"
+
+ itemsStr = input.split(' ')
+ items = [int(x)*int(x) for x in itemsStr]
+ print (items)
+ print(assort(items))
+ #print (requiredArea(assortedItems))

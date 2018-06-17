@@ -1,0 +1,141 @@
+
+def assort(items):
+ assortedItems = []
+ stack = []
+ for item in items:
+  if len(stack) == 0:
+   print ("First if condition")
+   print (item)
+   print (stack)
+   stack.append(item)
+   continue
+  if stack[len(stack)-1] >= item:
+   print ("Second if condition")
+   print (item)
+   print (stack)
+   assortedItems.append(stack)
+   print(assortedItems)
+   stack = []
+   stack.append(item)
+ return assortedItems
+
+def calculateArea(assortedItems):
+ area = 0
+ for item in assortedItems:
+  area += item[0]
+ return area
+
+#Input:items,currentIndex,assortedItems,
+#Return: areaOptions
+def assort2(items,currentIndex,assortedItems,areaOptions):
+ if assortedItems == None:
+  assortedItems = []
+ if areaOptions == None:
+  areaOptions = []
+ if currentIndex >= len(items):
+  #Dead end time to return back without doing anything
+  print ("Deadend")
+  print (assortedItems)
+  areaOptions.append(calculateArea(assortedItems))
+  return areaOptions
+ print ("CurrentIndex:"+str(currentIndex) + "Items:" )
+ print (items)
+ print("AssortedItems:")
+ print(assortedItems)
+ #The current item can be added on top of any of the existing stack
+ #For each option call the function
+ #The leaf of that option will actually return the result
+ #Till then it will be recursive call
+ item = items[currentIndex]
+ if len(assortedItems) == 0:
+  #Option1: Add above as that is the only option
+  newAssortedItems = assortedItems
+  stack = []
+  stack.append(item)
+  newAssortedItems.append(stack)
+  assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+  
+ else:
+  #Option1: Add above
+  for index in range(len(assortedItems)):
+   #print ("For loop start:")
+   #print (assortedItems)
+   #If lengh of stack is 1 then we just need to consider immediate item
+   #Else we need to consider even previous item
+   currentStack = assortedItems[index]
+   #print ("currentStack")
+   #print (currentStack)
+   if len(currentStack) == 1:
+    if item <= currentStack[-1]:
+     newAssortedItems = assortedItems
+     newAssortedItems[index].append(item)
+     areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+     del newAssortedItems[index][-1]
+     if item == currentStack[-1]:
+      newAssortedItems = assortedItems
+      newAssortedItems[index][-1] += item
+      areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+      newAssortedItems[index][-1] -= item
+    else:
+     #item cannot fit anywhere, create a new stack
+     stack = []
+     stack.append(item)
+     newAssortedItems = assortedItems
+     newAssortedItems.append(stack)
+     areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+     del newAssortedItems[-1]
+   elif item <= currentStack[-2] - currentStack[-1]:
+    #Item can be fitted on existing top
+    #print("Condition4 satisfied")
+    newAssortedItems = assortedItems
+    newAssortedItems[index][-1] += item
+    areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+    newAssortedItems[index][-1] -= item
+   elif item <= currentStack[-1]:
+    #Item can be fitted on top
+    newAssortedItems =assortedItems
+    newAssortedItems[index].append(item)
+    areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+    del newAssortedItems[index][-1]
+   else:
+    #item cannot fit anywhere, create a new stack
+    stack = []
+    stack.append(item)
+    newAssortedItems = assortedItems
+    newAssortedItems.append(stack)
+    areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+    del newAssortedItems[-1]
+  #Option2: Add beside
+  stack = []
+  stack.append(item)
+  newAssortedItems = assortedItems
+  newAssortedItems.append(stack)
+  areaOptions = assort2(items,currentIndex+1,newAssortedItems,areaOptions)
+  del newAssortedItems[-1]
+  
+
+ return areaOptions
+ 
+     
+     
+    
+ 
+ 
+
+ 
+ 
+  
+
+if __name__ == "__main__":
+ #input = "4 2 1 4 2"
+ #input = "4 2"
+ #input = "1 2 4"
+ input = "1 1 1 1 2"
+
+ itemsStr = input.split(' ')
+ items = [int(x)*int(x) for x in itemsStr]
+ print (items)
+ #assortedItems = assort(items)
+ #print (assortedItems)
+ print (min(assort2(items,0,None,None)))
+ #print (requiredArea(assortedItems))

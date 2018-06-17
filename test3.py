@@ -8,3 +8,8 @@ item = min(list3)
 print (item)
 print ("min value element : ")
 print ("min(list2)")
+
+list4 = ['ABC',123]
+list4 += [456]
+print (list4)
+
