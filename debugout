@@ -1,0 +1,1618 @@
+Main
+CurrentMove is : level0
+X:14Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:12Y:10:Cost:-1
+X:12Y:8:Cost:-1
+X:15Y:7:Cost:-1
+X:13Y:7:Cost:-1
+CurrentMove is : level1
+X:12Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:10Y:11:Cost:-1
+X:10Y:9:Cost:-1
+X:13Y:8:Cost:-1
+X:11Y:8:Cost:-1
+CurrentMove is : level2
+X:10Y:11:Cost:-1
+CurrentMove is : level2
+X:10Y:9:Cost:-1
+CurrentMove is : level2
+X:13Y:8:Cost:-1
+CurrentMove is : level2
+X:11Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:10Y:11:Cost:4
+X:10Y:9:Cost:4
+X:13Y:8:Cost:4
+X:11Y:8:Cost:4
+CurrentMove is : level1
+X:12Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:10Y:9:Cost:-1
+X:10Y:7:Cost:-1
+X:13Y:6:Cost:-1
+X:11Y:6:Cost:-1
+CurrentMove is : level2
+X:10Y:9:Cost:-1
+CurrentMove is : level2
+X:10Y:7:Cost:-1
+CurrentMove is : level2
+X:13Y:6:Cost:-1
+CurrentMove is : level2
+X:11Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:10Y:9:Cost:4
+X:10Y:7:Cost:4
+X:13Y:6:Cost:4
+X:11Y:6:Cost:4
+CurrentMove is : level1
+X:15Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:13Y:8:Cost:-1
+X:13Y:6:Cost:-1
+X:14Y:5:Cost:-1
+CurrentMove is : level2
+X:13Y:8:Cost:-1
+CurrentMove is : level2
+X:13Y:6:Cost:-1
+CurrentMove is : level2
+X:14Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:13Y:8:Cost:4
+X:13Y:6:Cost:4
+X:14Y:5:Cost:4
+CurrentMove is : level1
+X:13Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:11Y:8:Cost:-1
+X:11Y:6:Cost:-1
+X:14Y:5:Cost:-1
+X:12Y:5:Cost:-1
+CurrentMove is : level2
+X:11Y:8:Cost:-1
+CurrentMove is : level2
+X:11Y:6:Cost:-1
+CurrentMove is : level2
+X:14Y:5:Cost:-1
+CurrentMove is : level2
+X:12Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:11Y:8:Cost:4
+X:11Y:6:Cost:4
+X:14Y:5:Cost:4
+X:12Y:5:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:12Y:10:Cost:4
+X:12Y:8:Cost:4
+X:15Y:7:Cost:4
+X:13Y:7:Cost:4
+Main
+CurrentMove is : level0
+X:12Y:10:Cost:4
+New Moves possible:
+Moves possible:
+X:10Y:11:Cost:-1
+X:10Y:9:Cost:-1
+X:13Y:8:Cost:-1
+X:11Y:8:Cost:-1
+CurrentMove is : level1
+X:10Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:8Y:12:Cost:-1
+X:8Y:10:Cost:-1
+X:11Y:9:Cost:-1
+X:9Y:9:Cost:-1
+CurrentMove is : level2
+X:8Y:12:Cost:-1
+CurrentMove is : level2
+X:8Y:10:Cost:-1
+CurrentMove is : level2
+X:11Y:9:Cost:-1
+CurrentMove is : level2
+X:9Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:8Y:12:Cost:4
+X:8Y:10:Cost:4
+X:11Y:9:Cost:4
+X:9Y:9:Cost:4
+CurrentMove is : level1
+X:10Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:8Y:10:Cost:-1
+X:8Y:8:Cost:-1
+X:11Y:7:Cost:-1
+X:9Y:7:Cost:-1
+CurrentMove is : level2
+X:8Y:10:Cost:-1
+CurrentMove is : level2
+X:8Y:8:Cost:-1
+CurrentMove is : level2
+X:11Y:7:Cost:-1
+CurrentMove is : level2
+X:9Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:8Y:10:Cost:4
+X:8Y:8:Cost:4
+X:11Y:7:Cost:4
+X:9Y:7:Cost:4
+CurrentMove is : level1
+X:13Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:11Y:9:Cost:-1
+X:11Y:7:Cost:-1
+X:14Y:6:Cost:-1
+X:12Y:6:Cost:-1
+CurrentMove is : level2
+X:11Y:9:Cost:-1
+CurrentMove is : level2
+X:11Y:7:Cost:-1
+CurrentMove is : level2
+X:14Y:6:Cost:-1
+CurrentMove is : level2
+X:12Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:11Y:9:Cost:4
+X:11Y:7:Cost:4
+X:14Y:6:Cost:4
+X:12Y:6:Cost:4
+CurrentMove is : level1
+X:11Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:9Y:9:Cost:-1
+X:9Y:7:Cost:-1
+X:12Y:6:Cost:-1
+X:10Y:6:Cost:-1
+CurrentMove is : level2
+X:9Y:9:Cost:-1
+CurrentMove is : level2
+X:9Y:7:Cost:-1
+CurrentMove is : level2
+X:12Y:6:Cost:-1
+CurrentMove is : level2
+X:10Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:9Y:9:Cost:4
+X:9Y:7:Cost:4
+X:12Y:6:Cost:4
+X:10Y:6:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:10Y:11:Cost:4
+X:10Y:9:Cost:4
+X:13Y:8:Cost:4
+X:11Y:8:Cost:4
+Main
+CurrentMove is : level0
+X:10Y:11:Cost:4
+New Moves possible:
+Moves possible:
+X:8Y:12:Cost:-1
+X:8Y:10:Cost:-1
+X:11Y:9:Cost:-1
+X:9Y:9:Cost:-1
+CurrentMove is : level1
+X:8Y:12:Cost:-1
+New Moves possible:
+Moves possible:
+X:6Y:13:Cost:-1
+X:6Y:11:Cost:-1
+X:9Y:10:Cost:-1
+X:7Y:10:Cost:-1
+CurrentMove is : level2
+X:6Y:13:Cost:-1
+CurrentMove is : level2
+X:6Y:11:Cost:-1
+CurrentMove is : level2
+X:9Y:10:Cost:-1
+CurrentMove is : level2
+X:7Y:10:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:6Y:13:Cost:4
+X:6Y:11:Cost:4
+X:9Y:10:Cost:4
+X:7Y:10:Cost:4
+CurrentMove is : level1
+X:8Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:6Y:11:Cost:-1
+X:6Y:9:Cost:-1
+X:9Y:8:Cost:-1
+X:7Y:8:Cost:-1
+CurrentMove is : level2
+X:6Y:11:Cost:-1
+CurrentMove is : level2
+X:6Y:9:Cost:-1
+CurrentMove is : level2
+X:9Y:8:Cost:-1
+CurrentMove is : level2
+X:7Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:6Y:11:Cost:4
+X:6Y:9:Cost:4
+X:9Y:8:Cost:4
+X:7Y:8:Cost:4
+CurrentMove is : level1
+X:11Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:9Y:10:Cost:-1
+X:9Y:8:Cost:-1
+X:12Y:7:Cost:-1
+X:10Y:7:Cost:-1
+CurrentMove is : level2
+X:9Y:10:Cost:-1
+CurrentMove is : level2
+X:9Y:8:Cost:-1
+CurrentMove is : level2
+X:12Y:7:Cost:-1
+CurrentMove is : level2
+X:10Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:9Y:10:Cost:4
+X:9Y:8:Cost:4
+X:12Y:7:Cost:4
+X:10Y:7:Cost:4
+CurrentMove is : level1
+X:9Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:7Y:10:Cost:-1
+X:7Y:8:Cost:-1
+X:10Y:7:Cost:-1
+X:8Y:7:Cost:-1
+CurrentMove is : level2
+X:7Y:10:Cost:-1
+CurrentMove is : level2
+X:7Y:8:Cost:-1
+CurrentMove is : level2
+X:10Y:7:Cost:-1
+CurrentMove is : level2
+X:8Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:7Y:10:Cost:4
+X:7Y:8:Cost:4
+X:10Y:7:Cost:4
+X:8Y:7:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:8Y:12:Cost:4
+X:8Y:10:Cost:4
+X:11Y:9:Cost:4
+X:9Y:9:Cost:4
+Main
+CurrentMove is : level0
+X:8Y:12:Cost:4
+New Moves possible:
+Moves possible:
+X:6Y:13:Cost:-1
+X:6Y:11:Cost:-1
+X:9Y:10:Cost:-1
+X:7Y:10:Cost:-1
+CurrentMove is : level1
+X:6Y:13:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:14:Cost:-1
+X:4Y:12:Cost:-1
+X:7Y:11:Cost:-1
+X:5Y:11:Cost:-1
+CurrentMove is : level2
+X:4Y:14:Cost:-1
+CurrentMove is : level2
+X:4Y:12:Cost:-1
+CurrentMove is : level2
+X:7Y:11:Cost:-1
+CurrentMove is : level2
+X:5Y:11:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:14:Cost:4
+X:4Y:12:Cost:4
+X:7Y:11:Cost:4
+X:5Y:11:Cost:4
+CurrentMove is : level1
+X:6Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:12:Cost:-1
+X:4Y:10:Cost:-1
+X:7Y:9:Cost:-1
+X:5Y:9:Cost:-1
+CurrentMove is : level2
+X:4Y:12:Cost:-1
+CurrentMove is : level2
+X:4Y:10:Cost:-1
+CurrentMove is : level2
+X:7Y:9:Cost:-1
+CurrentMove is : level2
+X:5Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:12:Cost:4
+X:4Y:10:Cost:4
+X:7Y:9:Cost:4
+X:5Y:9:Cost:4
+CurrentMove is : level1
+X:9Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:7Y:11:Cost:-1
+X:7Y:9:Cost:-1
+X:10Y:8:Cost:-1
+X:8Y:8:Cost:-1
+CurrentMove is : level2
+X:7Y:11:Cost:-1
+CurrentMove is : level2
+X:7Y:9:Cost:-1
+CurrentMove is : level2
+X:10Y:8:Cost:-1
+CurrentMove is : level2
+X:8Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:7Y:11:Cost:4
+X:7Y:9:Cost:4
+X:10Y:8:Cost:4
+X:8Y:8:Cost:4
+CurrentMove is : level1
+X:7Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:5Y:11:Cost:-1
+X:5Y:9:Cost:-1
+X:8Y:8:Cost:-1
+X:6Y:8:Cost:-1
+CurrentMove is : level2
+X:5Y:11:Cost:-1
+CurrentMove is : level2
+X:5Y:9:Cost:-1
+CurrentMove is : level2
+X:8Y:8:Cost:-1
+CurrentMove is : level2
+X:6Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:5Y:11:Cost:4
+X:5Y:9:Cost:4
+X:8Y:8:Cost:4
+X:6Y:8:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:6Y:13:Cost:4
+X:6Y:11:Cost:4
+X:9Y:10:Cost:4
+X:7Y:10:Cost:4
+Main
+CurrentMove is : level0
+X:6Y:13:Cost:4
+New Moves possible:
+Moves possible:
+X:4Y:14:Cost:-1
+X:4Y:12:Cost:-1
+X:7Y:11:Cost:-1
+X:5Y:11:Cost:-1
+CurrentMove is : level1
+X:4Y:14:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:15:Cost:-1
+X:2Y:13:Cost:-1
+X:5Y:12:Cost:-1
+X:3Y:12:Cost:-1
+CurrentMove is : level2
+X:2Y:15:Cost:-1
+CurrentMove is : level2
+X:2Y:13:Cost:-1
+CurrentMove is : level2
+X:5Y:12:Cost:-1
+CurrentMove is : level2
+X:3Y:12:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:15:Cost:2
+X:2Y:13:Cost:2
+X:5Y:12:Cost:4
+X:3Y:12:Cost:4
+CurrentMove is : level1
+X:4Y:12:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:13:Cost:-1
+X:2Y:11:Cost:-1
+X:5Y:10:Cost:-1
+X:3Y:10:Cost:-1
+CurrentMove is : level2
+X:2Y:13:Cost:-1
+CurrentMove is : level2
+X:2Y:11:Cost:-1
+CurrentMove is : level2
+X:5Y:10:Cost:-1
+CurrentMove is : level2
+X:3Y:10:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:13:Cost:2
+X:2Y:11:Cost:2
+X:5Y:10:Cost:4
+X:3Y:10:Cost:4
+CurrentMove is : level1
+X:7Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:5Y:12:Cost:-1
+X:5Y:10:Cost:-1
+X:8Y:9:Cost:-1
+X:6Y:9:Cost:-1
+CurrentMove is : level2
+X:5Y:12:Cost:-1
+CurrentMove is : level2
+X:5Y:10:Cost:-1
+CurrentMove is : level2
+X:8Y:9:Cost:-1
+CurrentMove is : level2
+X:6Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:5Y:12:Cost:4
+X:5Y:10:Cost:4
+X:8Y:9:Cost:4
+X:6Y:9:Cost:4
+CurrentMove is : level1
+X:5Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:12:Cost:-1
+X:3Y:10:Cost:-1
+X:6Y:9:Cost:-1
+X:4Y:9:Cost:-1
+CurrentMove is : level2
+X:3Y:12:Cost:-1
+CurrentMove is : level2
+X:3Y:10:Cost:-1
+CurrentMove is : level2
+X:6Y:9:Cost:-1
+CurrentMove is : level2
+X:4Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:12:Cost:4
+X:3Y:10:Cost:4
+X:6Y:9:Cost:4
+X:4Y:9:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:4Y:14:Cost:2
+X:4Y:12:Cost:2
+X:7Y:11:Cost:4
+X:5Y:11:Cost:4
+Main
+CurrentMove is : level0
+X:7Y:11:Cost:4
+New Moves possible:
+Moves possible:
+X:5Y:12:Cost:-1
+X:5Y:10:Cost:-1
+X:8Y:9:Cost:-1
+X:6Y:9:Cost:-1
+CurrentMove is : level1
+X:5Y:12:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:13:Cost:-1
+X:3Y:11:Cost:-1
+X:6Y:10:Cost:-1
+X:4Y:10:Cost:-1
+CurrentMove is : level2
+X:3Y:13:Cost:-1
+CurrentMove is : level2
+X:3Y:11:Cost:-1
+CurrentMove is : level2
+X:6Y:10:Cost:-1
+CurrentMove is : level2
+X:4Y:10:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:13:Cost:4
+X:3Y:11:Cost:4
+X:6Y:10:Cost:4
+X:4Y:10:Cost:4
+CurrentMove is : level1
+X:5Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:11:Cost:-1
+X:3Y:9:Cost:-1
+X:6Y:8:Cost:-1
+X:4Y:8:Cost:-1
+CurrentMove is : level2
+X:3Y:11:Cost:-1
+CurrentMove is : level2
+X:3Y:9:Cost:-1
+CurrentMove is : level2
+X:6Y:8:Cost:-1
+CurrentMove is : level2
+X:4Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:11:Cost:4
+X:3Y:9:Cost:4
+X:6Y:8:Cost:4
+X:4Y:8:Cost:4
+CurrentMove is : level1
+X:8Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:6Y:10:Cost:-1
+X:6Y:8:Cost:-1
+X:9Y:7:Cost:-1
+X:7Y:7:Cost:-1
+CurrentMove is : level2
+X:6Y:10:Cost:-1
+CurrentMove is : level2
+X:6Y:8:Cost:-1
+CurrentMove is : level2
+X:9Y:7:Cost:-1
+CurrentMove is : level2
+X:7Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:6Y:10:Cost:4
+X:6Y:8:Cost:4
+X:9Y:7:Cost:4
+X:7Y:7:Cost:4
+CurrentMove is : level1
+X:6Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:10:Cost:-1
+X:4Y:8:Cost:-1
+X:7Y:7:Cost:-1
+X:5Y:7:Cost:-1
+CurrentMove is : level2
+X:4Y:10:Cost:-1
+CurrentMove is : level2
+X:4Y:8:Cost:-1
+CurrentMove is : level2
+X:7Y:7:Cost:-1
+CurrentMove is : level2
+X:5Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:10:Cost:4
+X:4Y:8:Cost:4
+X:7Y:7:Cost:4
+X:5Y:7:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:5Y:12:Cost:4
+X:5Y:10:Cost:4
+X:8Y:9:Cost:4
+X:6Y:9:Cost:4
+Main
+CurrentMove is : level0
+X:5Y:12:Cost:4
+New Moves possible:
+Moves possible:
+X:3Y:13:Cost:-1
+X:3Y:11:Cost:-1
+X:6Y:10:Cost:-1
+X:4Y:10:Cost:-1
+CurrentMove is : level1
+X:3Y:13:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:14:Cost:-1
+X:1Y:12:Cost:-1
+X:4Y:11:Cost:-1
+X:2Y:11:Cost:-1
+CurrentMove is : level2
+X:1Y:14:Cost:-1
+CurrentMove is : level2
+X:1Y:12:Cost:-1
+CurrentMove is : level2
+X:4Y:11:Cost:-1
+CurrentMove is : level2
+X:2Y:11:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:14:Cost:1
+X:1Y:12:Cost:1
+X:4Y:11:Cost:4
+X:2Y:11:Cost:2
+CurrentMove is : level1
+X:3Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:12:Cost:-1
+X:1Y:10:Cost:-1
+X:4Y:9:Cost:-1
+X:2Y:9:Cost:-1
+CurrentMove is : level2
+X:1Y:12:Cost:-1
+CurrentMove is : level2
+X:1Y:10:Cost:-1
+CurrentMove is : level2
+X:4Y:9:Cost:-1
+CurrentMove is : level2
+X:2Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:12:Cost:1
+X:1Y:10:Cost:1
+X:4Y:9:Cost:4
+X:2Y:9:Cost:2
+CurrentMove is : level1
+X:6Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:11:Cost:-1
+X:4Y:9:Cost:-1
+X:7Y:8:Cost:-1
+X:5Y:8:Cost:-1
+CurrentMove is : level2
+X:4Y:11:Cost:-1
+CurrentMove is : level2
+X:4Y:9:Cost:-1
+CurrentMove is : level2
+X:7Y:8:Cost:-1
+CurrentMove is : level2
+X:5Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:11:Cost:4
+X:4Y:9:Cost:4
+X:7Y:8:Cost:4
+X:5Y:8:Cost:4
+CurrentMove is : level1
+X:4Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:11:Cost:-1
+X:2Y:9:Cost:-1
+X:5Y:8:Cost:-1
+X:3Y:8:Cost:-1
+CurrentMove is : level2
+X:2Y:11:Cost:-1
+CurrentMove is : level2
+X:2Y:9:Cost:-1
+CurrentMove is : level2
+X:5Y:8:Cost:-1
+CurrentMove is : level2
+X:3Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:11:Cost:2
+X:2Y:9:Cost:2
+X:5Y:8:Cost:4
+X:3Y:8:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:3Y:13:Cost:1
+X:3Y:11:Cost:1
+X:6Y:10:Cost:4
+X:4Y:10:Cost:2
+Main
+CurrentMove is : level0
+X:6Y:10:Cost:4
+New Moves possible:
+Moves possible:
+X:4Y:11:Cost:-1
+X:4Y:9:Cost:-1
+X:7Y:8:Cost:-1
+X:5Y:8:Cost:-1
+CurrentMove is : level1
+X:4Y:11:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:12:Cost:-1
+X:2Y:10:Cost:-1
+X:5Y:9:Cost:-1
+X:3Y:9:Cost:-1
+CurrentMove is : level2
+X:2Y:12:Cost:-1
+CurrentMove is : level2
+X:2Y:10:Cost:-1
+CurrentMove is : level2
+X:5Y:9:Cost:-1
+CurrentMove is : level2
+X:3Y:9:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:12:Cost:2
+X:2Y:10:Cost:2
+X:5Y:9:Cost:4
+X:3Y:9:Cost:4
+CurrentMove is : level1
+X:4Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:10:Cost:-1
+X:2Y:8:Cost:-1
+X:5Y:7:Cost:-1
+X:3Y:7:Cost:-1
+CurrentMove is : level2
+X:2Y:10:Cost:-1
+CurrentMove is : level2
+X:2Y:8:Cost:-1
+CurrentMove is : level2
+X:5Y:7:Cost:-1
+CurrentMove is : level2
+X:3Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:10:Cost:2
+X:2Y:8:Cost:2
+X:5Y:7:Cost:4
+X:3Y:7:Cost:4
+CurrentMove is : level1
+X:7Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:5Y:9:Cost:-1
+X:5Y:7:Cost:-1
+X:8Y:6:Cost:-1
+X:6Y:6:Cost:-1
+CurrentMove is : level2
+X:5Y:9:Cost:-1
+CurrentMove is : level2
+X:5Y:7:Cost:-1
+CurrentMove is : level2
+X:8Y:6:Cost:-1
+CurrentMove is : level2
+X:6Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:5Y:9:Cost:4
+X:5Y:7:Cost:4
+X:8Y:6:Cost:4
+X:6Y:6:Cost:4
+CurrentMove is : level1
+X:5Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:9:Cost:-1
+X:3Y:7:Cost:-1
+X:6Y:6:Cost:-1
+X:4Y:6:Cost:-1
+CurrentMove is : level2
+X:3Y:9:Cost:-1
+CurrentMove is : level2
+X:3Y:7:Cost:-1
+CurrentMove is : level2
+X:6Y:6:Cost:-1
+CurrentMove is : level2
+X:4Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:9:Cost:4
+X:3Y:7:Cost:4
+X:6Y:6:Cost:4
+X:4Y:6:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:4Y:11:Cost:2
+X:4Y:9:Cost:2
+X:7Y:8:Cost:4
+X:5Y:8:Cost:4
+Main
+CurrentMove is : level0
+X:7Y:8:Cost:4
+New Moves possible:
+Moves possible:
+X:5Y:9:Cost:-1
+X:5Y:7:Cost:-1
+X:8Y:6:Cost:-1
+X:6Y:6:Cost:-1
+CurrentMove is : level1
+X:5Y:9:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:10:Cost:-1
+X:3Y:8:Cost:-1
+X:6Y:7:Cost:-1
+X:4Y:7:Cost:-1
+CurrentMove is : level2
+X:3Y:10:Cost:-1
+CurrentMove is : level2
+X:3Y:8:Cost:-1
+CurrentMove is : level2
+X:6Y:7:Cost:-1
+CurrentMove is : level2
+X:4Y:7:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:10:Cost:4
+X:3Y:8:Cost:4
+X:6Y:7:Cost:4
+X:4Y:7:Cost:4
+CurrentMove is : level1
+X:5Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:8:Cost:-1
+X:3Y:6:Cost:-1
+X:6Y:5:Cost:-1
+X:4Y:5:Cost:-1
+CurrentMove is : level2
+X:3Y:8:Cost:-1
+CurrentMove is : level2
+X:3Y:6:Cost:-1
+CurrentMove is : level2
+X:6Y:5:Cost:-1
+CurrentMove is : level2
+X:4Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:8:Cost:4
+X:3Y:6:Cost:4
+X:6Y:5:Cost:4
+X:4Y:5:Cost:4
+CurrentMove is : level1
+X:8Y:6:Cost:-1
+New Moves possible:
+Moves possible:
+X:6Y:7:Cost:-1
+X:6Y:5:Cost:-1
+X:9Y:4:Cost:-1
+X:7Y:4:Cost:-1
+CurrentMove is : level2
+X:6Y:7:Cost:-1
+CurrentMove is : level2
+X:6Y:5:Cost:-1
+CurrentMove is : level2
+X:9Y:4:Cost:-1
+CurrentMove is : level2
+X:7Y:4:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:6Y:7:Cost:4
+X:6Y:5:Cost:4
+X:9Y:4:Cost:4
+X:7Y:4:Cost:4
+CurrentMove is : level1
+X:6Y:6:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:7:Cost:-1
+X:4Y:5:Cost:-1
+X:7Y:4:Cost:-1
+X:5Y:4:Cost:-1
+CurrentMove is : level2
+X:4Y:7:Cost:-1
+CurrentMove is : level2
+X:4Y:5:Cost:-1
+CurrentMove is : level2
+X:7Y:4:Cost:-1
+CurrentMove is : level2
+X:5Y:4:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:7:Cost:4
+X:4Y:5:Cost:4
+X:7Y:4:Cost:4
+X:5Y:4:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:5Y:9:Cost:4
+X:5Y:7:Cost:4
+X:8Y:6:Cost:4
+X:6Y:6:Cost:4
+Main
+CurrentMove is : level0
+X:5Y:9:Cost:4
+New Moves possible:
+Moves possible:
+X:3Y:10:Cost:-1
+X:3Y:8:Cost:-1
+X:6Y:7:Cost:-1
+X:4Y:7:Cost:-1
+CurrentMove is : level1
+X:3Y:10:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:11:Cost:-1
+X:1Y:9:Cost:-1
+X:4Y:8:Cost:-1
+X:2Y:8:Cost:-1
+CurrentMove is : level2
+X:1Y:11:Cost:-1
+CurrentMove is : level2
+X:1Y:9:Cost:-1
+CurrentMove is : level2
+X:4Y:8:Cost:-1
+CurrentMove is : level2
+X:2Y:8:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:11:Cost:1
+X:1Y:9:Cost:1
+X:4Y:8:Cost:4
+X:2Y:8:Cost:2
+CurrentMove is : level1
+X:3Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:9:Cost:-1
+X:1Y:7:Cost:-1
+X:4Y:6:Cost:-1
+X:2Y:6:Cost:-1
+CurrentMove is : level2
+X:1Y:9:Cost:-1
+CurrentMove is : level2
+X:1Y:7:Cost:-1
+CurrentMove is : level2
+X:4Y:6:Cost:-1
+CurrentMove is : level2
+X:2Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:9:Cost:1
+X:1Y:7:Cost:1
+X:4Y:6:Cost:4
+X:2Y:6:Cost:2
+CurrentMove is : level1
+X:6Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:8:Cost:-1
+X:4Y:6:Cost:-1
+X:7Y:5:Cost:-1
+X:5Y:5:Cost:-1
+CurrentMove is : level2
+X:4Y:8:Cost:-1
+CurrentMove is : level2
+X:4Y:6:Cost:-1
+CurrentMove is : level2
+X:7Y:5:Cost:-1
+CurrentMove is : level2
+X:5Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:8:Cost:4
+X:4Y:6:Cost:4
+X:7Y:5:Cost:4
+X:5Y:5:Cost:4
+CurrentMove is : level1
+X:4Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:8:Cost:-1
+X:2Y:6:Cost:-1
+X:5Y:5:Cost:-1
+X:3Y:5:Cost:-1
+CurrentMove is : level2
+X:2Y:8:Cost:-1
+CurrentMove is : level2
+X:2Y:6:Cost:-1
+CurrentMove is : level2
+X:5Y:5:Cost:-1
+CurrentMove is : level2
+X:3Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:8:Cost:2
+X:2Y:6:Cost:2
+X:5Y:5:Cost:4
+X:3Y:5:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:3Y:10:Cost:1
+X:3Y:8:Cost:1
+X:6Y:7:Cost:4
+X:4Y:7:Cost:2
+Main
+CurrentMove is : level0
+X:6Y:7:Cost:4
+New Moves possible:
+Moves possible:
+X:4Y:8:Cost:-1
+X:4Y:6:Cost:-1
+X:7Y:5:Cost:-1
+X:5Y:5:Cost:-1
+CurrentMove is : level1
+X:4Y:8:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:9:Cost:-1
+X:2Y:7:Cost:-1
+X:5Y:6:Cost:-1
+X:3Y:6:Cost:-1
+CurrentMove is : level2
+X:2Y:9:Cost:-1
+CurrentMove is : level2
+X:2Y:7:Cost:-1
+CurrentMove is : level2
+X:5Y:6:Cost:-1
+CurrentMove is : level2
+X:3Y:6:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:9:Cost:2
+X:2Y:7:Cost:2
+X:5Y:6:Cost:4
+X:3Y:6:Cost:4
+CurrentMove is : level1
+X:4Y:6:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:7:Cost:-1
+X:2Y:5:Cost:-1
+X:5Y:4:Cost:-1
+X:3Y:4:Cost:-1
+CurrentMove is : level2
+X:2Y:7:Cost:-1
+CurrentMove is : level2
+X:2Y:5:Cost:-1
+CurrentMove is : level2
+X:5Y:4:Cost:-1
+CurrentMove is : level2
+X:3Y:4:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:7:Cost:2
+X:2Y:5:Cost:2
+X:5Y:4:Cost:4
+X:3Y:4:Cost:4
+CurrentMove is : level1
+X:7Y:5:Cost:-1
+New Moves possible:
+Moves possible:
+X:5Y:6:Cost:-1
+X:5Y:4:Cost:-1
+X:8Y:3:Cost:-1
+X:6Y:3:Cost:-1
+CurrentMove is : level2
+X:5Y:6:Cost:-1
+CurrentMove is : level2
+X:5Y:4:Cost:-1
+CurrentMove is : level2
+X:8Y:3:Cost:-1
+CurrentMove is : level2
+X:6Y:3:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:5Y:6:Cost:4
+X:5Y:4:Cost:4
+X:8Y:3:Cost:4
+X:6Y:3:Cost:4
+CurrentMove is : level1
+X:5Y:5:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:6:Cost:-1
+X:3Y:4:Cost:-1
+X:6Y:3:Cost:-1
+X:4Y:3:Cost:-1
+CurrentMove is : level2
+X:3Y:6:Cost:-1
+CurrentMove is : level2
+X:3Y:4:Cost:-1
+CurrentMove is : level2
+X:6Y:3:Cost:-1
+CurrentMove is : level2
+X:4Y:3:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:6:Cost:4
+X:3Y:4:Cost:4
+X:6Y:3:Cost:4
+X:4Y:3:Cost:4
+New Moves after setting cost:
+Moves possible:
+X:4Y:8:Cost:2
+X:4Y:6:Cost:2
+X:7Y:5:Cost:4
+X:5Y:5:Cost:4
+Main
+CurrentMove is : level0
+X:7Y:5:Cost:4
+New Moves possible:
+Moves possible:
+X:5Y:6:Cost:-1
+X:5Y:4:Cost:-1
+X:8Y:3:Cost:-1
+X:6Y:3:Cost:-1
+CurrentMove is : level1
+X:5Y:6:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:7:Cost:-1
+X:3Y:5:Cost:-1
+X:6Y:4:Cost:-1
+X:4Y:4:Cost:-1
+CurrentMove is : level2
+X:3Y:7:Cost:-1
+CurrentMove is : level2
+X:3Y:5:Cost:-1
+CurrentMove is : level2
+X:6Y:4:Cost:-1
+CurrentMove is : level2
+X:4Y:4:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:7:Cost:4
+X:3Y:5:Cost:4
+X:6Y:4:Cost:4
+X:4Y:4:Cost:4
+CurrentMove is : level1
+X:5Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:5:Cost:-1
+X:3Y:3:Cost:-1
+X:6Y:2:Cost:-1
+X:4Y:2:Cost:-1
+CurrentMove is : level2
+X:3Y:5:Cost:-1
+CurrentMove is : level2
+X:3Y:3:Cost:-1
+CurrentMove is : level2
+X:6Y:2:Cost:-1
+CurrentMove is : level2
+X:4Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:5:Cost:4
+X:3Y:3:Cost:4
+X:6Y:2:Cost:2
+X:4Y:2:Cost:2
+CurrentMove is : level1
+X:8Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:6Y:4:Cost:-1
+X:6Y:2:Cost:-1
+X:9Y:1:Cost:-1
+X:7Y:1:Cost:-1
+CurrentMove is : level2
+X:6Y:4:Cost:-1
+CurrentMove is : level2
+X:6Y:2:Cost:-1
+CurrentMove is : level2
+X:9Y:1:Cost:-1
+CurrentMove is : level2
+X:7Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:6Y:4:Cost:4
+X:6Y:2:Cost:2
+X:9Y:1:Cost:1
+X:7Y:1:Cost:1
+CurrentMove is : level1
+X:6Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:4:Cost:-1
+X:4Y:2:Cost:-1
+X:7Y:1:Cost:-1
+X:5Y:1:Cost:-1
+CurrentMove is : level2
+X:4Y:4:Cost:-1
+CurrentMove is : level2
+X:4Y:2:Cost:-1
+CurrentMove is : level2
+X:7Y:1:Cost:-1
+CurrentMove is : level2
+X:5Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:4:Cost:4
+X:4Y:2:Cost:2
+X:7Y:1:Cost:1
+X:5Y:1:Cost:1
+New Moves after setting cost:
+Moves possible:
+X:5Y:6:Cost:4
+X:5Y:4:Cost:2
+X:8Y:3:Cost:1
+X:6Y:3:Cost:1
+Main
+CurrentMove is : level0
+X:5Y:6:Cost:4
+New Moves possible:
+Moves possible:
+X:3Y:7:Cost:-1
+X:3Y:5:Cost:-1
+X:6Y:4:Cost:-1
+X:4Y:4:Cost:-1
+CurrentMove is : level1
+X:3Y:7:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:8:Cost:-1
+X:1Y:6:Cost:-1
+X:4Y:5:Cost:-1
+X:2Y:5:Cost:-1
+CurrentMove is : level2
+X:1Y:8:Cost:-1
+CurrentMove is : level2
+X:1Y:6:Cost:-1
+CurrentMove is : level2
+X:4Y:5:Cost:-1
+CurrentMove is : level2
+X:2Y:5:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:8:Cost:1
+X:1Y:6:Cost:1
+X:4Y:5:Cost:4
+X:2Y:5:Cost:2
+CurrentMove is : level1
+X:3Y:5:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:6:Cost:-1
+X:1Y:4:Cost:-1
+X:4Y:3:Cost:-1
+X:2Y:3:Cost:-1
+CurrentMove is : level2
+X:1Y:6:Cost:-1
+CurrentMove is : level2
+X:1Y:4:Cost:-1
+CurrentMove is : level2
+X:4Y:3:Cost:-1
+CurrentMove is : level2
+X:2Y:3:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:6:Cost:1
+X:1Y:4:Cost:1
+X:4Y:3:Cost:4
+X:2Y:3:Cost:2
+CurrentMove is : level1
+X:6Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:4Y:5:Cost:-1
+X:4Y:3:Cost:-1
+X:7Y:2:Cost:-1
+X:5Y:2:Cost:-1
+CurrentMove is : level2
+X:4Y:5:Cost:-1
+CurrentMove is : level2
+X:4Y:3:Cost:-1
+CurrentMove is : level2
+X:7Y:2:Cost:-1
+CurrentMove is : level2
+X:5Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:4Y:5:Cost:4
+X:4Y:3:Cost:4
+X:7Y:2:Cost:2
+X:5Y:2:Cost:2
+CurrentMove is : level1
+X:4Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:5:Cost:-1
+X:2Y:3:Cost:-1
+X:5Y:2:Cost:-1
+X:3Y:2:Cost:-1
+CurrentMove is : level2
+X:2Y:5:Cost:-1
+CurrentMove is : level2
+X:2Y:3:Cost:-1
+CurrentMove is : level2
+X:5Y:2:Cost:-1
+CurrentMove is : level2
+X:3Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:5:Cost:2
+X:2Y:3:Cost:2
+X:5Y:2:Cost:2
+X:3Y:2:Cost:2
+New Moves after setting cost:
+Moves possible:
+X:3Y:7:Cost:1
+X:3Y:5:Cost:1
+X:6Y:4:Cost:2
+X:4Y:4:Cost:2
+Main
+CurrentMove is : level0
+X:6Y:4:Cost:2
+New Moves possible:
+Moves possible:
+X:4Y:5:Cost:-1
+X:4Y:3:Cost:-1
+X:7Y:2:Cost:-1
+X:5Y:2:Cost:-1
+CurrentMove is : level1
+X:4Y:5:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:6:Cost:-1
+X:2Y:4:Cost:-1
+X:5Y:3:Cost:-1
+X:3Y:3:Cost:-1
+CurrentMove is : level2
+X:2Y:6:Cost:-1
+CurrentMove is : level2
+X:2Y:4:Cost:-1
+CurrentMove is : level2
+X:5Y:3:Cost:-1
+CurrentMove is : level2
+X:3Y:3:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:6:Cost:2
+X:2Y:4:Cost:2
+X:5Y:3:Cost:4
+X:3Y:3:Cost:4
+CurrentMove is : level1
+X:4Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:4:Cost:-1
+X:2Y:2:Cost:-1
+X:5Y:1:Cost:-1
+X:3Y:1:Cost:-1
+CurrentMove is : level2
+X:2Y:4:Cost:-1
+CurrentMove is : level2
+X:2Y:2:Cost:-1
+CurrentMove is : level2
+X:5Y:1:Cost:-1
+CurrentMove is : level2
+X:3Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:4:Cost:2
+X:2Y:2:Cost:0
+X:5Y:1:Cost:1
+X:3Y:1:Cost:1
+CurrentMove is : level1
+X:7Y:2:Cost:-1
+New Moves possible:
+Moves possible:
+X:5Y:3:Cost:-1
+X:5Y:1:Cost:-1
+CurrentMove is : level2
+X:5Y:3:Cost:-1
+CurrentMove is : level2
+X:5Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:5Y:3:Cost:4
+X:5Y:1:Cost:1
+CurrentMove is : level1
+X:5Y:2:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:3:Cost:-1
+X:3Y:1:Cost:-1
+CurrentMove is : level2
+X:3Y:3:Cost:-1
+CurrentMove is : level2
+X:3Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:3:Cost:4
+X:3Y:1:Cost:1
+New Moves after setting cost:
+Moves possible:
+X:4Y:5:Cost:2
+X:4Y:3:Cost:0
+X:7Y:2:Cost:1
+X:5Y:2:Cost:1
+Main
+CurrentMove is : level0
+X:4Y:5:Cost:2
+New Moves possible:
+Moves possible:
+X:2Y:6:Cost:-1
+X:2Y:4:Cost:-1
+X:5Y:3:Cost:-1
+X:3Y:3:Cost:-1
+CurrentMove is : level1
+X:2Y:6:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:4:Cost:-1
+X:1Y:4:Cost:-1
+CurrentMove is : level2
+X:3Y:4:Cost:-1
+CurrentMove is : level2
+X:1Y:4:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:4:Cost:4
+X:1Y:4:Cost:1
+CurrentMove is : level1
+X:2Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:2:Cost:-1
+X:1Y:2:Cost:-1
+CurrentMove is : level2
+X:3Y:2:Cost:-1
+CurrentMove is : level2
+X:1Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:2:Cost:2
+X:1Y:2:Cost:0
+CurrentMove is : level1
+X:5Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:3Y:4:Cost:-1
+X:3Y:2:Cost:-1
+X:6Y:1:Cost:-1
+X:4Y:1:Cost:-1
+CurrentMove is : level2
+X:3Y:4:Cost:-1
+CurrentMove is : level2
+X:3Y:2:Cost:-1
+CurrentMove is : level2
+X:6Y:1:Cost:-1
+CurrentMove is : level2
+X:4Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:3Y:4:Cost:4
+X:3Y:2:Cost:2
+X:6Y:1:Cost:1
+X:4Y:1:Cost:1
+CurrentMove is : level1
+X:3Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:4:Cost:-1
+X:1Y:2:Cost:-1
+X:4Y:1:Cost:-1
+X:2Y:1:Cost:-1
+CurrentMove is : level2
+X:1Y:4:Cost:-1
+CurrentMove is : level2
+X:1Y:2:Cost:-1
+CurrentMove is : level2
+X:4Y:1:Cost:-1
+CurrentMove is : level2
+X:2Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:4:Cost:1
+X:1Y:2:Cost:0
+X:4Y:1:Cost:1
+X:2Y:1:Cost:0
+New Moves after setting cost:
+Moves possible:
+X:2Y:6:Cost:1
+X:2Y:4:Cost:0
+X:5Y:3:Cost:1
+X:3Y:3:Cost:0
+Main
+CurrentMove is : level0
+X:2Y:6:Cost:1
+New Moves possible:
+Moves possible:
+X:3Y:4:Cost:-1
+X:1Y:4:Cost:-1
+CurrentMove is : level1
+X:3Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:1Y:5:Cost:-1
+X:1Y:3:Cost:-1
+X:4Y:2:Cost:-1
+X:2Y:2:Cost:-1
+CurrentMove is : level2
+X:1Y:5:Cost:-1
+CurrentMove is : level2
+X:1Y:3:Cost:-1
+CurrentMove is : level2
+X:4Y:2:Cost:-1
+CurrentMove is : level2
+X:2Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:1Y:5:Cost:1
+X:1Y:3:Cost:1
+X:4Y:2:Cost:2
+X:2Y:2:Cost:0
+CurrentMove is : level1
+X:1Y:4:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:2:Cost:-1
+CurrentMove is : level2
+X:2Y:2:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:2:Cost:0
+New Moves after setting cost:
+Moves possible:
+X:3Y:4:Cost:0
+X:1Y:4:Cost:0
+Main
+CurrentMove is : level0
+X:3Y:4:Cost:0
+New Moves possible:
+Moves possible:
+X:1Y:5:Cost:-1
+X:1Y:3:Cost:-1
+X:4Y:2:Cost:-1
+X:2Y:2:Cost:-1
+CurrentMove is : level1
+X:1Y:5:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:3:Cost:-1
+CurrentMove is : level2
+X:2Y:3:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:3:Cost:2
+CurrentMove is : level1
+X:1Y:3:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:1:Cost:-1
+CurrentMove is : level2
+X:2Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:1:Cost:0
+CurrentMove is : level1
+X:4Y:2:Cost:-1
+New Moves possible:
+Moves possible:
+X:2Y:3:Cost:-1
+X:2Y:1:Cost:-1
+CurrentMove is : level2
+X:2Y:3:Cost:-1
+CurrentMove is : level2
+X:2Y:1:Cost:-1
+New Moves after setting cost:
+Moves possible:
+X:2Y:3:Cost:2
+X:2Y:1:Cost:0
+CurrentMove is : level1
+X:2Y:2:Cost:-1
+New Moves possible:
+Moves possible:
+New Moves after setting cost:
+Moves possible:
+Best move is none
+New Moves after setting cost:
+Moves possible:
+X:1Y:5:Cost:2
+X:1Y:3:Cost:0
+X:4Y:2:Cost:0
+X:2Y:2:Cost:10
+Main
+CurrentMove is : level0
+X:2Y:2:Cost:10
+New Moves possible:
+Moves possible:
+New Moves after setting cost:
+Moves possible:
+Best move is none
+Best move returned is None
+First
