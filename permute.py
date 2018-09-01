@@ -22,5 +22,6 @@ if __name__ == "__main__":
   #list = ['0','1','2','3','4']
   #list = ['a','b','c','d','e','f','g','h','i']
   list = [0,1,2]
+  #list = [0,1,1]
   print (permute(list))
  
